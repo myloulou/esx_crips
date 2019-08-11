@@ -14,9 +14,9 @@ INSERT INTO `org` (name, label) VALUES
 	('crips','Crips')
 ;
 
-INSERT INTO `org_gradeorg` (`org_name`, `gradeorg`, `name`, `label`, `salary`, `skin_male`, `skin_female`) VALUES
-	('crips',0,'recruit','Recrue',20,'{}','{}'),
-	('crips',1,'sergeant','Crips',60,'{}','{}'),
-	('crips',2,'lieutenant','Capitaine',85,'{}','{}'),
-	('crips',3,'boss','Chef',100,'{}','{}')
+INSERT INTO `org_gradeorg` (`org_name`, `gradeorg`, `name`, `label`, `skin_male`, `skin_female`) VALUES
+	('crips',0,'recruit','Recrue','{}','{}'),
+	('crips',1,'sergeant','Crips','{}','{}'),
+	('crips',2,'lieutenant','Capitaine','{}','{}'),
+	('crips',3,'boss','Chef','{}','{}')
 ;
